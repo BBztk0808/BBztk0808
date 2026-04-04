@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Youjia Li 👋</h1>
+<h1 align="center">Hi there, I'm BBztk 👋</h1>
 <h3 align="center">BBztk0808 · A normal high school student building interesting things</h3>
 
 <p align="center">
