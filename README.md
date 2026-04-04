@@ -14,23 +14,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Student+%2F+Developer+from+China;Building+small+but+fun+projects;Interested+in+AI+and+Backend;Learning+Machine+Learning+and+Neural+Networks" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&repeat=true&fade=true&lines=「私の翼は、あなたのために生まれたから」" alt="Typing SVG" />
+</p>
 ---
 
 ## About Me
 
-- **Name / 昵称**: Youjia Li (BBztk0808)
-- **Location / 地区**: China
-- **Role / 身份**: Student & Developer
-- **Tagline / 一句话**: 普普通通的高中生 / Just a normal high school student
-- **What I build / 我主要在做**: Small projects that may be "not super useful" but are always fun
-- **Interests / 兴趣方向**: AI, Backend
-- **Goal / 未来目标**: Machine Learning, Neural Networks
+- **Name**: Youjia Li (BBztk0808)
+- **Location**: China Chongqing
+- **Role**: Student & Developer
+- **Tagline**: 「私の翼は、あなたのために生まれたから」
+- **What I build**: Small projects that may be "not super useful" but are always fun
+- **Interests**: AI, Backend
+- **Goal**: Machine Learning, Neural Networks
 
 ---
 
 ## Tech Stack
 
-### Programming Languages / 编程语言
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -47,20 +51,20 @@
   <img src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black" />
 </p>
 
-### Frontend Frameworks / Libraries / 前端框架
+### Frontend Frameworks / Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
-### Frontend Technologies / 前端技术
+### Frontend Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### Backend / Platforms / 后端与平台
+### Backend / Platforms
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -69,14 +73,14 @@
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-### Mobile Development / 移动开发
+### Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-### Databases / 数据库
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -85,7 +89,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### Data / AI / ML / 数据分析与机器学习
+### Data / AI / ML
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
@@ -93,20 +97,20 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### DevOps / Cloud / 运维与云
+### DevOps / Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
-### Version Control / Shell / 版本管理与命令行
+### Version Control / Shell
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Testing / 测试
+### Testing
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -114,7 +118,7 @@
   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 </p>
 
-### Design / Tools / 设计与工具
+### Design / Tools
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
@@ -146,17 +150,9 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BBztk0808&show_icons=true&locale=en&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBztk0808&layout=compact&locale=en&theme=transparent" alt="Top languages" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BBztk0808&theme=transparent" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BBztk0808&theme=flat&margin-w=8&margin-h=8&no-frame=true" alt="GitHub trophies" />
 </p>
 
 <p align="center">
@@ -167,9 +163,9 @@
 
 ## Now / Current Focus
 
-- 🌱 **Learning / 正在学习**: Machine Learning, Neural Networks, Web
-- 🚧 **Building / 正在做**: GeoBottle
-- 🎯 **Next Goal / 未来想做**: Keep pushing GeoBottle forward
+- 🌱 **Learning**: Machine Learning, Neural Networks, Web
+- 🚧 **Building**: GeoBottle
+- 🎯 **Next Goal**: Keep pushing GeoBottle forward
 
 ---
 
@@ -181,4 +177,4 @@
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile · 感谢访问我的主页</i></p>
+<p align="center"><i>Thanks for visiting my profile</i></p>
