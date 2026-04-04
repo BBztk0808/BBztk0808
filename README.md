@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&repeat=true&fade=true&lines=「私の翼は、あなたのために生まれたから」" alt="Typing SVG" />
 </p>
----
 
 ## About Me
 
