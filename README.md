@@ -28,7 +28,7 @@
 - **What I build**: Small projects that may be "not super useful" but are always fun
 - **Interests**: AI, Backend
 - **Goal**: Machine Learning, Neural Networks
-
+- **Other**: This is a new account. My previous account (BBztk) was incorrectly flagged, and I cannot submit an appeal due to the lack of an international phone number.
 ---
 
 ## Tech Stack
