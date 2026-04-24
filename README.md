@@ -147,6 +147,12 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBztk0808&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BBztk0808&show_icons=true&theme=dark&hide_border=true)
+
+---
+
 ## GitHub Stats
 
 
